@@ -41,6 +41,7 @@ Full build steps: [lab/lab-setup.md](lab/lab-setup.md)
 | Day | Date | Topic | Log | Notes |
 |---|---|---|---|---|
 | 1 | 2026-10-02 | Lab build: isolated network, two RHEL 10 VMs, snapshots | [day-01](logs/day-01.md) | — |
+| 2 | 2026-10-03 | Obj 1: shell prompt and command syntax (`ls`, `pwd`, `cd`, `man` search) | [day-02](logs/day-02.md) | [01](notes/01-shell-syntax.md) |
 
 ## Objectives (RHEL 10 EX200, my study order)
 
